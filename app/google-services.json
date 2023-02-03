@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "868720131458",
+    "project_id": "to-do-app-dc88c",
+    "storage_bucket": "to-do-app-dc88c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868720131458:android:83399b4720378a605ca39b",
+        "android_client_info": {
+          "package_name": "com.zexceed.to_doapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868720131458-nkb93lrf8afgui3jcbampnjghptgplgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoANoNzGW6zizt2hYB8kLrXaqVusivogc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868720131458-nkb93lrf8afgui3jcbampnjghptgplgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
