@@ -8,5 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="abuabu">#D5D0D0</color>
+    <color name="abuabuhint">#C3BBBB</color>
+    <color name="ijolaki">#96EC72</color>
 
 </resources>
